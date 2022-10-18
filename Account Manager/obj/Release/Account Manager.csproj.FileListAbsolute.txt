@@ -1,0 +1,30 @@
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\bin\Release\Account Manager.exe.config
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\bin\Release\Account Manager.exe
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\bin\Release\Account Manager.pdb
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.csproj.AssemblyReference.cache
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.EpicGames.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.BattleNet.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.MainPage.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.Origin.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.Properties.Resources.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account_Manager.Steam.resources
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.csproj.GenerateResource.cache
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.exe
+C:\Users\Mercy\Desktop\Games\Account Manager\Account Manager\obj\Release\Account Manager.pdb
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\bin\Release\Account Manager.exe.config
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\bin\Release\Account Manager.exe
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\bin\Release\Account Manager.pdb
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.csproj.AssemblyReference.cache
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.EpicGames.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.BattleNet.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.MainPage.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.Origin.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.Properties.Resources.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account_Manager.Steam.resources
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.csproj.GenerateResource.cache
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.exe
+C:\Users\matts\Downloads\Steam-Account-Manager-main\Steam-Account-Manager-main\Account Manager\obj\Release\Account Manager.pdb
